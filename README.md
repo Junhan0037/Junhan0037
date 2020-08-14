@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning JAVA, SPRING.
 - 📫 My Resume : https://resume-git.netlify.app/
+- 💬 Contact me : wnsgks0037@naver.com
 
 <!--
 **Junhan0037/Junhan0037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
