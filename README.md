@@ -1,4 +1,4 @@
-### Web Developer 👋
+### Java Developer 👋
 
 - 🌱 I’m currently learning JAVA, SPRING.
 - 📫 My Resume : https://resume-git.netlify.app/
