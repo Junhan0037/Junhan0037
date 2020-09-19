@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning JAVA, SPRING.
 - 📫 My Resume : https://resume-git.netlify.app/
+- 🤔 My Blog : https://sharkbob.tistory.com/
 - 💬 Contact me : wnsgks0037@naver.com
 
 <!--
