@@ -1,8 +1,8 @@
 ### Java Developer 👋
 
 - 🌱 I’m currently learning JAVA, SPRING.
-- 📫 My Resume : https://resume-git.netlify.app/
-- 🤔 My CS Blog : https://sharkbob.tistory.com/
+- 📫 My Resume : https://resume-git.netlify.app
+- 🤔 My CS Blog : https://sharkbob.tistory.com
 - 💬 Contact me : wnsgks0037@naver.com
 
 <!--
