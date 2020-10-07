@@ -1,9 +1,4 @@
-### Java Developer 👋
-
-- 🌱 I’m currently learning JAVA, SPRING.
-- 📫 My Resume : https://resume-git.netlify.app
-- 🤔 My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
-- 💬 Contact me : wnsgks0037@naver.com
+## Java Developer 👋
 
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java)
@@ -28,6 +23,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?logo=Keras)
+
+
+- 🌱 I’m currently learning JAVA, SPRING.
+- 📫 My Resume : https://resume-git.netlify.app
+- 🤔 My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
+- 💬 Contact me : wnsgks0037@naver.com
 
 <!--
 **Junhan0037/Junhan0037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
