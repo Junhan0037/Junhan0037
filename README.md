@@ -15,6 +15,8 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgreSQL)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB)
+![Travis_CI](https://img.shields.io/badge/Travis_CI-3EAAAF.svg?logo=Travis-CI)
+![NGINX](https://img.shields.io/badge/NGINX-269539.svg?logo=NGINX)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=Amazon-AWS)
@@ -23,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?logo=Keras)
-
 
 - 🌱 I’m currently learning JAVA, SPRING.
 - 📫 My Resume : https://resume-git.netlify.app
