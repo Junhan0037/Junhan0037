@@ -26,6 +26,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?logo=Keras)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning JAVA, SPRING.
 - 📫 My Resume : https://resume-git.netlify.app
 - ✏️ My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
