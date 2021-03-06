@@ -27,7 +27,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning JAVA, SPRING.
+- 🌱 I’m currently learning JAVA, SPRING, Vue.
 - 📫 My Resume : https://resume-git.netlify.app
 - ✏️ My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
 - 🌎 Contact me : wnsgks0037@naver.com
