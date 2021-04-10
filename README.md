@@ -28,6 +28,7 @@
 
 ### 💙 Deploy, CI & CD
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white)
 ![Travis_CI](https://img.shields.io/badge/Travis_CI-3EAAAF.svg?logo=Travis-CI&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-269539.svg?logo=NGINX&logoColor=white)
 
