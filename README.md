@@ -1,5 +1,8 @@
 ## 👋 Developer
 
+### 🏵 Career
+> 2021.02.15 'Planit Healthcare'
+
 ### 🧡 Backend Skills
 ![Java_8](https://img.shields.io/badge/java8-red?style=flat-square&logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?style=flat-square&logo=java&logoColor=white)
