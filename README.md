@@ -1,6 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Backend-Developer&fontAlign=70&fontAlignY=35&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Backend-Developer&fontAlign=60&fontAlignY=35&color=gradient)
 
-### 🏵 Career
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Career
 > 2021.02.15 'Planit Healthcare'
 
 ### 🧡 Backend Skills
@@ -44,15 +44,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-<a href="https://solved.ac/profile/wnsgks0037">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgks0037">
-</a>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I'm currently a Full Stack Developer and has been working since February 15, 2021.
-- 📫 My Resume : https://resume-git.netlify.app
-- ✏️ My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
+<a href="https://solved.ac/profile/wnsgks0037">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgks0037">
+</a>
+
+- 🌱 I'm interested in `Full Stack Developer`.
+- 📫 My Resume : <a href="https://resume-git.netlify.app">![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat-square&logo=Netlify&logoColor=white)</a>
+- ✏️ My CS Blog : <a href="https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215">![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)</a>
 - 🌎 Contact me : wnsgks0037@naver.com
 
 <!--
