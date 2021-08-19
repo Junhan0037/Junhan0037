@@ -44,6 +44,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+<a href="https://solved.ac/profile/wnsgks0037">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgks0037">
+</a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I'm currently a Full Stack Developer and has been working since February 15, 2021.
