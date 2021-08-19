@@ -1,4 +1,4 @@
-## 👋 Developer
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Backend-Developer&fontAlign=70&fontAlignY=35&color=gradient)
 
 ### 🏵 Career
 > 2021.02.15 'Planit Healthcare'
