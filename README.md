@@ -52,7 +52,7 @@
 
 - 🌱 I'm interested in `Full Stack Developer`.
 - 📫 My Resume : <a href="https://resume-git.netlify.app">![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat-square&logo=Netlify&logoColor=white)</a>
-- ✏️ My CS Blog : <a href="https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215">![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)</a>
+- ✏️ My CS Blog : <a href="https://granite-rice-963.notion.site/Computer-Science-915e104d730a4686af787aaf58291215">![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)</a>
 - 🌎 Contact me : wnsgks0037@naver.com
 
 <!--
