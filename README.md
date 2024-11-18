@@ -11,21 +11,21 @@
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,js&perline=5" />
   </a>
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring&perline=5" />
+    <img src="https://skillicons.dev/icons?i=spring,react&perline=5" />
   </a>
 </p>
 
 ### DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=5" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx&perline=5" />
   </a>
 </p>
 
