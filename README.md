@@ -52,5 +52,5 @@
 <h1>🎇 Etc</h1>
 
 * [📫 My Resume](https://resume-git.netlify.app) <br/>
-* [✏️ My CS Blog](https://www.notion.so/junhan0037/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4) <br/>
+* [✏️ My CS Blog](https://junhan0037.notion.site/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4) <br/>
 * [🌎 Contact me:]() `wnsgks0037@naver.com` <br/>
