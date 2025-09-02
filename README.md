@@ -3,8 +3,9 @@
 </a>
 
 ### 🪐 연락처 및 블로그
-- [Blog](https://junhan0037.notion.site/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4)
-* [연락처]() `wnsgks0037@naver.com` <br/>
+- [개발 Blog](https://junhan0037.notion.site/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4)
+- [개발자로서 생각 Blog](https://velog.io/@wnsgks0037/posts)
+* 연락처: `wnsgks0037@naver.com`
 
 
 ### 경력
