@@ -9,11 +9,7 @@
 
 
 ### 경력
-- 플랜잇스퀘어 (2021.02 ~)
-
-
-### 외부 활동 이력
-- ETC
+- 플랜잇스퀘어 (2021.02 ~ 2025.09)
 
 
 ### SKILL
@@ -26,4 +22,4 @@
 
 <br/>
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgks0037)
+[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
