@@ -3,20 +3,20 @@
 </a>
 
 ### 🪐 연락처 및 블로그
-- [개발 Blog](https://junhan0037.notion.site/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4)
-- [개발자로서 생각 Blog](https://velog.io/@wnsgks0037/posts)
+- [개발 개념 Blog](https://junhan0037.notion.site/Computer-Science-915e104d730a4686af787aaf58291215?pvs=4)
+- [문제 해결 Blog](https://velog.io/@wnsgks0037/posts)
 * 연락처: `wnsgks0037@naver.com`
 
 
 ### 경력
-- 플랜잇스퀘어 (2021.02 ~ 2025.09)
+- 플랜잇스퀘어 백엔드 개발 (2021.02 ~ 2025.09)
 
 
 ### SKILL
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,react&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,react&perline=5" />
   </a>
 </p>
 
