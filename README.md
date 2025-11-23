@@ -2,7 +2,7 @@
     <img src = "https://render.gitanimals.org/farms/{Junhan0037}" width="800" height="300"/>
 </a>
 
-### 🪐 연락처 및 블로그
+### 연락처 및 블로그
 - [문제 해결 경험 Blog](https://velog.io/@wnsgks0037/posts)
 * 연락처: `wnsgks0037@naver.com`
 
@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,react&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,redis,kafka,docker,kubernetes,elasticsearch,aws&perline=10" />
   </a>
 </p>
 
