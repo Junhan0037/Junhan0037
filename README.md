@@ -18,7 +18,3 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,redis,kafka,docker,kubernetes,elasticsearch,aws&perline=10" />
   </a>
 </p>
-
-<br/>
-
-[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=Junhan0037&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
