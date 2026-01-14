@@ -3,7 +3,6 @@
 </a>
 
 ### 연락처 및 블로그
-- [문제 해결 경험 Blog](https://velog.io/@wnsgks0037/posts)
 * 연락처: `wnsgks0037@naver.com`
 
 
